@@ -1,6 +1,4 @@
-# Adidas
-
-##  Unveiling Adidas Sales Secrets: Python-powered Deep Dive 
+# Unveiling Adidas Sales Secrets: Python-powered Deep Dive 
 
 This project delves into the fascinating world of Adidas sales in the USA, leveraging the power of **Python** and data analysis libraries like **pandas**, **NumPy**, **Seaborn**, and **Matplotlib**. Our goal? To answer key questions and unlock insights that propel Adidas to even greater success.
 
